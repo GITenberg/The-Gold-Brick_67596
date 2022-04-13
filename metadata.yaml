@@ -1,0 +1,39 @@
+_repo: The-Gold-Brick_67596
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitlock, Brand
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '37861'
+    url: http://www.gutenberg.org/2009/agents/37861
+    wikipedia: https://en.wikipedia.org/wiki/Brand_Whitlock
+description: ''
+gutenberg_issued: '2022-03-09'
+identifiers:
+  gutenberg: '67596'
+  lccn: '10023399'
+language: en
+pgterms:marc904: https://archive.org/details/goldbrick00whitiala
+pgterms:marc905: 20190311141328whitlock
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The Bobbs-Merrill Company,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Fiction'
+- !lcsh 'Political fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The gold brick -- The has-been -- What will become of Annie? -- The
+  vindication of Henderson of Greene -- Senate bill 578 -- Macochee's first campaign
+  fund -- A secret of state -- The colonel's last campaign -- Reform in the first
+  -- Malachi Nolan -- The pardon of Thomas Whalen -- That boy.
+title: The Gold Brick
+url: http://www.gutenberg.org/ebooks/67596
